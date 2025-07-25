@@ -80,8 +80,8 @@ The script collects about 125 job listings (25 per page × 5 pages).
 Data is displayed in the console and saved in a pandas DataFrame.
 
 ### Screenshots    
-![1](https://github.com/user-attachments/assets/9980bd24-d337-4e99-a30a-fefc896b1bc1) -Terminal output1  
+![1](https://github.com/user-attachments/assets/e2b87e19-ca00-4c4b-9bc7-80b5e68fa084)
+![2](https://github.com/user-attachments/assets/a6e5f885-b450-493f-89f5-84b2175c8301)
 
-![2](https://github.com/user-attachments/assets/2c7d9d60-e217-4209-bc42-fe8e5398ba4b)  -Terminal output2
 
 

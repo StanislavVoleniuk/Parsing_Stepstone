@@ -79,8 +79,9 @@ print(df.head())
 The script collects about 125 job listings (25 per page × 5 pages).  
 Data is displayed in the console and saved in a pandas DataFrame.
 
-## 🖼 Screenshots    
-![1](https://github.com/user-attachments/assets/e2b87e19-ca00-4c4b-9bc7-80b5e68fa084)
-![2](https://github.com/user-attachments/assets/a6e5f885-b450-493f-89f5-84b2175c8301)
+## 🖼 Screenshots 
+![1](https://github.com/user-attachments/assets/1ff0ad43-8216-4500-b963-1ed2833aa842)
+![2](https://github.com/user-attachments/assets/1282c9c5-dd87-4092-90b9-9967da1b561a)
+
   
 
